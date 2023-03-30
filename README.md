@@ -1,6 +1,6 @@
-# konas
+# not konas
 
-Gl dont care big coder
+not konas this is not konas this is phobos
 
 # Backup link
 
